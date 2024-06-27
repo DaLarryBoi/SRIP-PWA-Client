@@ -1,0 +1,33 @@
+.friend-request{
+    display: flex;
+    padding: 0.5rem 1rem;
+}
+
+.avatar{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    margin-right: 0.75rem;
+}
+
+.name{
+    margin-top: 0.5rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.approve{
+    color: green;
+    font-size: 1.25rem;
+    border: none;
+    margin-left: auto;
+    padding: 0.5rem 1rem;
+}
+
+.decline{
+    color: red;
+    font-size: 1.5rem;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-top: -0.30rem;
+}

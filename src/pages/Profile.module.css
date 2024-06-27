@@ -1,0 +1,33 @@
+.avatar {
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+}
+.setting-icon {
+    position:fixed;
+    right: 0;
+    top:0;
+    margin: 1rem;
+    width: 3rem;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: transparent;
+}
+
+.setting-icon img {
+    width: 2rem;
+}
+
+.friend-request{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: white;
+    border: none;
+    background-color: #1f1f1f;
+}
